@@ -3,6 +3,7 @@ def meal_choice(veg1, veg2, protein = tofu)
   "A plate of #{protein} with #{veg1} an #{veg2}."
 end
 
+meal_choice("carrots", "string beans", "lentiles")
 
 
 # Your code here
